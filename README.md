@@ -11,10 +11,10 @@ This is a **fun, chill, and super handy daily task manager** I built with Python
 - Save everything automatically to Excel (`tasks.xlsx`) 📊  
 - Export your tasks to CSV, cause why not? 💾  
 - Desktop notifications for your tasks so you don’t miss them 🔔  
-
+ 
 ## Requirements 🛠️
 - Python 3.8+  
-- Libraries: `pandas`, `openpyxl`, `plyer`  
+- dont forget to download this Libraries: `pandas`, `openpyxl`, `plyer`  
 
 Install them via:  
 ```bash
